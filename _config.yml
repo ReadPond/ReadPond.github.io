@@ -32,7 +32,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://114.116.31.206
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -121,7 +121,9 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@114.116.31.206:/var/repo/hexo.git
+  
 
 live2d:
   enable: true
