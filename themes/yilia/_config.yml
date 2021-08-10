@@ -6,7 +6,6 @@ menu:
   主页: /
   随笔: /tags/随笔/
   生活: /tags/生活
-  JAVASE: /tags/javaSE
   大学专业: /tags/大学专业
   归档: /archives/index.html
 
@@ -161,7 +160,4 @@ licensee_url: https://creativecommons.org/licenses/by-nc-sa/4.0/        #当前�
 licensee_name: '知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议'        #版权协议的名称
 licensee_img: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png    #版权协议的Logo
 
-nav:
-  home: /
-  about: /about
-  tags: /tags
+
